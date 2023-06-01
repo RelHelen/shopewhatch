@@ -1,0 +1,43 @@
+a:2:{s:4:"data";s:1726:"<li>
+    <a href="http://localhost/shopewhatch/category/men">Мужские часы</a>
+            <ul>
+            <li>
+    <a href="http://localhost/shopewhatch/category/elektronnye">Электронные</a>
+            <ul>
+            <li>
+    <a href="http://localhost/shopewhatch/category/casio">Casio</a>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/citizen">Citizen</a>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/sauvage"> Sauvage</a>
+    </li>        </ul>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/mehanicheskie">Механические</a>
+            <ul>
+            <li>
+    <a href="http://localhost/shopewhatch/category/royal-london">Royal London</a>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/seiko">Seiko</a>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/epos">Epos</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/women">Женские часы</a>
+            <ul>
+            <li>
+    <a href="http://localhost/shopewhatch/category/elektronnye-11">Электронные</a>
+            <ul>
+            <li>
+    <a href="http://localhost/shopewhatch/category/adriatica">Adriatica</a>
+    </li>        </ul>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/mehanicheskie-12">Механические</a>
+            <ul>
+            <li>
+    <a href="http://localhost/shopewhatch/category/anne-klein">Anne Klein</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="http://localhost/shopewhatch/category/kids">Детские часы</a>
+    </li>";s:8:"end_time";i:1685452033;}
